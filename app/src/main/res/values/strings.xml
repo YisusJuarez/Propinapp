@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Propinapp</string>
+    <string name="input_text">Costo del Servicio</string>
+    <string name="pregunta_servicio">¿Que tal fue el servicio?</string>
+    <string name="increible">Increible (20%)</string>
+    <string name="bueno">Bueno (18%)</string>
+    <string name="aceptable">Aceptable (15%)</string>
+    <string name="pregunta_redondear">¿Redondear?</string>
+    <string name="boton_calular">Calcular</string>
+    <string name="monto_total">Monto Total: %s</string>
+</resources>
